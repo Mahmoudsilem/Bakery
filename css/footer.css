@@ -1,0 +1,79 @@
+/*  footer1 start  */
+
+.footer1{
+    background-color: #403d38;
+    padding: 20px ;
+}
+.footer1 .items{
+    margin: 25px 10px 25px 0;
+}
+.footer1 h3{
+    color: white;
+    font-size: 18px;
+    padding: 10px 0;
+}
+.footer1 .items  p{
+    color: #969696;
+padding-bottom: 50px;
+}
+.footer1 .items .item{
+    padding: 10px 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05) ;
+}
+.footer1 .items .last{
+    border-bottom: 0;
+}
+.footer1 .items .item span{
+    color: #969696;
+}
+
+.footer1 .items .item span img{
+    width: 20px;
+    vertical-align: middle;
+}
+.about-us{
+    width: 25%;
+
+}
+.we-special{
+    width: 25%;
+}
+.opening-hours{
+    width: 25%;
+}
+.contact-details{
+    width: 25%;
+    background-image: url(../imgs/contact-details-map.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/* footer 2 start */
+.footer2{
+    padding: 48px 0;
+  margin-bottom: 0;
+    background-color: #353330;
+    text-align: center;
+}
+.footer2 h6{
+    margin: 20px 0;
+    color: rgb(119, 119, 119);
+    font-size: 15px;
+}
+.footer2 .social-media{
+    width: 20%;
+    margin-inline: auto;
+}
+.footer2 .social-media  .item{
+    margin: 10px;
+    width: 40px;
+    border: 1px solid #484540;
+    background-color: #484540;
+    border-radius: 50%;
+}
+.footer2 .social-media .item img{
+    width: 100%;
+}
+.bakery-logo{
+    width: 400px;
+}

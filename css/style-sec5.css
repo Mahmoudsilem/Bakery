@@ -1,0 +1,37 @@
+/*   sec5 start   */
+.contact-information{
+    background-color: #f8f8f8;
+    padding: 25px;
+    margin-bottom: 48px;
+}
+.contact-information .contact-information-text{
+    width: 50%;
+}
+.contact-information .contact-information-text p{
+    line-height:1.86em ;
+}
+.contact-information-text .items{
+    /* width: 50%; */
+    margin-top: 48px;
+}
+.contact-information .item{
+    margin-top: 35px;
+}
+.contact-information-text .item img{
+    background-color: #8e7754;
+    width: 36px;
+    border: 1px #8e7754 solid;
+    border-radius:50% ;
+    margin-right: 20px
+}
+.contact-information-text .item .icon-description{
+    line-height: 36px;
+    vertical-align: middle;
+}
+.contact-information-map{
+    width: 50%;
+}
+.contact-information-map img{
+    width: 100%;
+    display: block;
+}

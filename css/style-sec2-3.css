@@ -1,0 +1,63 @@
+/* sec2 start */
+.sec2{
+    margin-top: 48px;
+    padding-top: 40px;
+    margin-bottom: 48px;
+    padding-bottom: 40px;
+}
+.sec2 img{
+    width: 45%;
+}
+.sec2 .we-are{
+    width: 49%;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 40px;
+}
+.sec2 .we-are h2{
+    margin-bottom: 25px;
+    margin-left: 45px;
+    font-size: 32px;
+    color:rgb(48, 48, 48);
+}
+.sec2 .we-are p{
+    margin-left: 45px;
+    color: rgb(104, 104, 104);
+}
+.sec2 .items img{
+    width: 44px;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 50px;
+}
+.sec2 .we-are .items ul{
+    margin: 15px 0px 15px 45px;
+}
+.sec2 .we-are .items li{
+    color: rgb(104, 104, 104);
+    margin-right: 10px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+/*   sec3 start  */
+.sec3{
+    padding-bottom: 48px;
+    margin-bottom: 48px;
+}
+.sec3 .ourlocation-caption{
+    margin: 48px 48px 0 0px;
+    padding: 48px;
+    width: 50%;
+    display: inline-block;
+    vertical-align: top;
+}
+.sec3 img{
+    width: 45%;
+}
+.sec3 .ourlocation-caption h2, .sec3 .ourlocation-caption p{
+    padding: 20px 10px 20px 0;
+}
+.ourlocation-caption p{
+    color: rgb(104, 104, 104);
+}

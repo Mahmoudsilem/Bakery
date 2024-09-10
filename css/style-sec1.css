@@ -1,0 +1,61 @@
+/*nav + header start sec1 */
+.header {
+    height: 130vh;
+    background-image: url("../imgs/drew-coffman-1872.jpg");
+    background-size:cover ;
+    background-position: 1%;
+}
+.header .black-cover{
+    height: 130vh;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+.header img{
+    margin-top: 20px;
+    width: 175px;
+}
+.nav-right li {
+    display: inline-block;
+    padding: 25px 20px;
+}
+.nav-right .home{
+    border-top: #8e7754 solid 5px;
+}
+.nav-right li a {
+    font-size: 18px;
+    color: white;
+    text-decoration: none;
+}
+.header .header-caption{
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+}
+.header .header-caption h3, .header .header-caption h1, .header .header-caption h2{
+    margin-top: 30px;
+}
+.header .header-caption h3{
+    font-size: 22px;
+}
+.header .header-caption h1{
+    font-size: 76px;
+}
+.header .header-caption h2{
+    font-size: 24px;
+}
+.header .header-caption button{
+    padding: 15px 28px;
+    margin-left: 10px;
+    margin-top: 20px;
+    border: 2px white solid;
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0);
+}
+.header .header-caption .header-btn1{
+    background-color: #8e7754;
+    border-color: #8e7754;
+}
+.header .header-caption button a{
+    color: white;
+    text-decoration: none;
+    font-weight: 700;
+}
